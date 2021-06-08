@@ -1,2 +1,2 @@
-# IgorSeregin.GitHub.io
+# Игорь Серегин
 Мой первый сайт
