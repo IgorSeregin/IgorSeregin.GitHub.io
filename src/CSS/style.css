@@ -9,6 +9,7 @@ nav {
     height: 60px;
     background: #344051;
 
+
 }
 
 .logo {
@@ -35,10 +36,11 @@ nav {
 
 .main {
     width: 100%;
-    height: calc(100%-60px);
-    background:url(../img/%D0%9F%D0%B0%D1%80%D0%B5%D0%BD%D1%8C.png)90% 100%/auto 85% no-repeat ,url(../img/Fon.jpg) center/cover no-repeat;
+    height: calc(100% - 60px);
+    background: url(../img/%D0%9F%D0%B0%D1%80%D0%B5%D0%BD%D1%8C.png) 90% 100%/ auto 85% no-repeat, url(../img/Fon.jpg) center/cover no-repeat;
 
 }
+
 
 .title__container {
     float: left;
@@ -55,7 +57,7 @@ nav {
 .title__container h2 {
     margin-top: 20px;
     font-size: 20px;
-    color: #798180da;
+    color: #798180;
     margin-bottom: 40px;
 }
 
@@ -124,134 +126,254 @@ nav {
     background: url(../img/%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B0.png)left/ 15px 15px no-repeat local;
     background-position: 15px;
     padding-right: 5px;
-    margin-bottom: 150px;
-    
+    margin-bottom: 100px;
+
 }
 
 .options {
-    
-    width: 100%;
-    height: 100%;
-    background: url(../img/%D1%84%D0%BE%D0%BD1.png) 90% 100%/auto 85% no-repeat, center/cover no-repeat;
+    float: left;
+    width:100%;
+    height: 545px;
+    background: url(../img/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0%20%D1%84%D0%BE%D0%BD%D0%B0.jpg) no-repeat center/cover;
+
 }
 
 
 .options h4 {
+    
     width: 200px;
-    height: 100px;
+    height: 164px;
     border-bottom: 5px solid #d17700;
-    padding-bottom: 50px;
-    margin-left: 850px;
+    margin-left: 50%;
+    padding-bottom: 55px;
+    padding-top: 150px;
     font-size: 25px;
     color: #2d384a;
     font-weight: bold;
     text-transform: uppercase;
-    height: 33px;
     text-align: center;
-    
+
 }
 
-.image{
-    
-    height:60px;
-    width:auto;
-    border: none;
-    background: url(../img/%D0%BD%D0%BE%D1%83%D1%82.png) no-repeat 380px, url(../img/%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BE%D1%84%D0%BE%D0%BD.png) 1260px no-repeat, url(../img/%D0%B7%D0%BD%D0%B0%D0%BA.png) 680px no-repeat, url(../img/%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0.png) 970px no-repeat ;
-    
-     }
+.image {
+    margin-top: 106px;
+    height: 60px;
+    width: 935px;
+    margin: 100px 750px;
+    border: 1px solid;
+    background: url(../img/%D0%BD%D0%BE%D1%83%D1%82.png) no-repeat  0px, url(../img/%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BE%D1%84%D0%BE%D0%BD.png) 250px no-repeat, url(../img/%D0%B7%D0%BD%D0%B0%D0%BA.png) 500px no-repeat, url(../img/%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0.png) 750px no-repeat;
+
+}
 
 
-.skill{
-    
+.skill {
+
     float: left;
     margin-left: 220px;
-    
-   }
-.skill h41{
-    
+
+}
+
+.skill h41 {
+
     float: left;
     height: 15px;
     width: 220px;
-    border: 1px solid;
+   display: inline-block;
     font-size: 15px;
-    color: #798180da;
+    color: #cf7600;
     text-align: center;
     font-weight: bold;
     margin-bottom: 15px;
-       
+    
 }
 
-.skill li{
-    
+.skill li {
     float: left;
-    margin-left: 75px;
+    
+    margin-top: 60px;
+    
     height: 150px;
     width: 220px;
-    border: 1px solid;
     font-size: 15px;
     color: #798180da;
     text-align: center;
     box-sizing: border-box;
 }
 
-.cases h5{
+.cases {
+    height: auto;
+    width: auto;
+}
+
+.cases h5 {
+
     width: 200px;
-    height: 100px;
+    height: 70px;
     border-bottom: 5px solid #d17700;
-    padding-bottom: 50px;
-    margin-left: 850px;
+    padding: 20px;
+    margin-left: 50%;
+    
     font-size: 25px;
     color: #2d384a;
     font-weight: bold;
     text-transform: uppercase;
-    height: 33px;
     text-align: center;
-  
+
 }
-.cases span{
-    margin-top: 20px;
+
+.cases span {
+
+    margin-top: 37px;
     display: inline-block;
     border: none;
     width: 950px;
     height: 50px;
     margin-left: 500px;
     font-size: 15px;
-    color: #798180da;
+    color: #3f495a;
     text-align: center;
-
-}
-.primer_rab{
-    
-    
-     width: 100%;
-    height: 100%;
-    background: url(../img/%D1%84%D0%BE%D1%82%D0%BA%D0%B0.png) center no-repeat;
 }
 
-.primer_rab li{
-    
-    
-    height: 150px;
+.primer_rab {
+    width: 100%;
+    height: 58%;
+    background: url(../img/%D1%84%D0%BE%D1%82%D0%BA%D0%B0.png)  no-repeat;
+}
+
+.site {
+    float: left;
+    margin-left: 380px;
     width: 220px;
-    border: 1px solid;
-    font-size: 15px;
-    color: #384354;
+    height: 100px;
+    border: 5px solid #d17700;
+
+
+}
+
+.site h11 {
+    font: 20px;
+    color: #2d384a;
     font-weight: bold;
-    text-align: center;
-    text-transform: uppercase;
-    box-sizing: border-box;
+    margin: 0px 108px 10px 0px;
+
+
 }
 
+.site span {
+    margin: 0px 3px 0px;
+    width: 200px;
+    height: 100px;
+    border: none;
+    font: 20px;
+    color: #2d384a;
+    line-height: 30px;
 
-.primer_rab span{
-    height: 150px;
-    width: 220px;
+}
+
+.s h12 {
+    margin: 0px 0px 20px;
+    width: 860px;
+    height: 106px;
+    border: 5px solid #d17700;
+    font: 20px;
+    color: #2d384a;
+}
+
+.s p {
+
+    margin: 10px 600px;
+    width: 860px;
+    height: 79px;
+    border: 5px solid #d17700;
+    font: 20px;
+    color: #2d384a;
+}
+
+.sub_vizit input {
+    height: 45px;
+    width: 200px;
     border: 1px solid;
-    font-size: 15px;
-    color: #798180da;
+    background-color: #63b5ae;
+    margin-left: 390px;
     text-align: center;
+    font-size: 17px;
+    font-weight: bold;
+    color: #fff;
+    text-transform: uppercase;
+    border-radius: 5px;
+    padding: 5px 15px;
+    box-sizing: border-box;
+}
+
+.calc {
+    height: 530px;
+    width: 890px;
+    border-bottom: 1px solid;
+    margin-left: 497px;
+    margin-top: 200px;
+}
+
+.calc h6 {
+    color: #2d384a;
+    font-size: 36px;
+    font-weight: bold;
+    padding-left: 300px;
+    float: left;
+
+}
+
+.select {
+
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 126px;
+
+}
+
+.price {
+    
+    height: 150px;
+    width: 890px;
+    color: #2d384a;
+    font-size: 17px;
+    font-weight: bold;
+    margin-left: 497px;
+    
+    
     box-sizing: border-box;
 }
 
 
+.price input {
+    float: right;
+    font-size: 17px;
+    height: 25px;
+    width: 25px;
+    border: 1px solid;
+    
+    
+}
 
+.static{
+    width: auto;
+    height:500px;
+    background: url(../img/%D1%84%D0%BE%D0%BD1.png) center/cover no-repeat;
+    
+}
+
+.static h7{
+    
+    height: 150px;
+    width: 500px;
+    border: 5px solid; 
+    margin: 500px;
+    padding-bottom: 150px;
+  
+   
+    
+}
+
+.static p{
+    border: 1px solid;
+    margin-bottom: 100px;
+}
