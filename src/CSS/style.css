@@ -378,7 +378,6 @@ nav {
     height:45px;
     width: 200px;
     border: 1px solid;
-    
     display:block;
 }
 .calc {
@@ -408,42 +407,48 @@ nav {
 
 .price {
     
-    height: 150px;
+    height: 228px;
     width: 890px;
-    color: #2d384a;
-    font-size: 17px;
-    font-weight: bold;
+    border: 1px solid;
     margin-left: 497px;
-    box-sizing: border-box;
+   
 }
 
+.price span{
+    border: 1px solid;
+    height: 15px;
+    width: 120px;
+    
+    
+}
 
 .price input {
-    float: right;
-    font-size: 17px;
+    margin-left: 150px;
+    margin-bottom: 0px;
+    font-size: 20px;
     height: 25px;
     width: 25px;
     border: 1px solid;
     
-    
+ 
 }
 
 
+
 .general{
-    width: 1920px;
+    margin-top: 150px;
+    width: auto;
     height: 500px;
     background: url(../img/%D1%84%D0%BE%D0%BD1.png) center/cover no-repeat;
 }
 
 
 }
-.general h6{
+.general h66{
     width: 320px;
     height: 165px;
     border: 5px solid #d17700;
     margin-left: 870px;
-    
-    
     font-size: 25px;
     color: #2d384a;
     font-weight: bold;
