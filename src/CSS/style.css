@@ -161,7 +161,7 @@ nav {
     height: 170px;
     width: 220px;
     text-align: center;
-    border: 1px solid;
+    border: none;
     margin:100px 0px 0px 500px;
     display: block;
     margin-top: 100px;
@@ -173,7 +173,7 @@ nav {
     height: 170px;
     width: 220px;
     text-align: center;
-    border: 1px solid;
+    border: none;
     margin-left: 80px;
     display: block;
     margin-top: 100px;
@@ -184,7 +184,7 @@ nav {
     height: 170px;
     width: 220px;
     text-align: center;
-    border: 1px solid;
+    border: none;
     margin-left: 80px;
     display: block;
     margin-top: 100px;
@@ -195,7 +195,7 @@ nav {
     height: 170px;
     width: 220px;
     text-align: center;
-    border: 1px solid;
+    border: none;
     margin-left: 80px;
     display: block;
     margin-top: 100px;
@@ -208,6 +208,7 @@ nav {
     width: 220px;
     background: url(../img/%D0%BD%D0%BE%D1%83%D1%82.png) no-repeat;
     background-position: center;
+    
 }
 
 .skill img {
@@ -287,7 +288,7 @@ nav {
 .cases {
     width: auto;
     height: 980px;
-    border: 1px solid;
+    border: none;
 }
 
 .cases h5 {
@@ -308,7 +309,7 @@ nav {
 .cases span {
     
     display: block;
-    border: 1px solid;
+    border: none;
     width: auto;
     height: 12px;
     margin:auto;
@@ -322,14 +323,14 @@ nav {
     height: 590px;
     width: 100%;
     background: url(../img/%D1%84%D0%BE%D1%82%D0%BA%D0%B0.png) center no-repeat;
-    border: 1px solid;
+    border: none;
    
 }
 
 .site {
     height: 120px;
     width: 287px;
-    border: 1px solid;
+    border: none;
     margin-left: 388px;
     float: left;
     display: inline-block;
@@ -339,7 +340,7 @@ nav {
 
     height: 72px;
     width: 20px;
-    border: 1px solid;
+    border: none;
     font: 19px;
     font-weight: bold;
     text-transform: uppercase;
@@ -354,7 +355,7 @@ nav {
     font: 12px;
     height: 13px;
     width: 122px;
-    border: 1px solid;
+    border: none;
     color: #384354;
     
 }
@@ -362,7 +363,7 @@ nav {
 .project_name {
     height: 100px;
     width: 953px;
-    border: 1px solid;
+    border: none;
     display: inline-block;
     
 }
@@ -370,7 +371,7 @@ nav {
 .project_name h12 {
     height: 72px;
     width: 20px;
-    border: 1px solid;
+    border: none;
     font: 19px;
     font-weight: bold;
     text-transform: uppercase;
@@ -404,7 +405,7 @@ nav {
 .calc {
     height: 530px;
     width: 890px;
-    border-bottom: 1px solid;
+    border-bottom: none;
     margin: auto;
 
 }
@@ -419,7 +420,7 @@ nav {
 }
 
 .select {
-    border: 1px solid;
+    border: none;
     display: block;
     font-size: 36px;
     color: #1c2534;
@@ -439,20 +440,20 @@ nav {
 
 .option {
     font-size: 1px;
-    border: 1px solid;
+    border: none;
 }
 
 .price {
 
     height: 100px;
     width: 890px;
-    border: 1px solid;
+    border: none;
     margin:auto;
 
 }
 
 .price span {
-    border: 1px solid;
+    border: none;
     height: 20px;
     width: 100px;
     font-size: 18px;
@@ -468,7 +469,7 @@ nav {
     font-size: 20px;
     height: 25px;
     width: 25px;
-    border: 1px solid;
+    border: none;
 }
 
 
@@ -502,7 +503,7 @@ nav {
 .stick {
     width: 1920px;
     height: 170px;
-    border: 1px solid #d17700;
+    border: none;
     margin-top: 100px;
 
 
@@ -512,7 +513,7 @@ nav {
     float: left;
     width: 190px;
     height: 160px;
-    border: 1px solid #d17700;
+    border: none;
     display: inline-block;
     margin-left: 440px;
     margin-right: 150px;
@@ -528,12 +529,15 @@ nav {
 .stick1 input {
     height: 30px;
     width: 50px;
-    border: 1px solid;
+    border: none;
     font-size: 28px;
+    text-transform: uppercase;
+    font-weight: bold;
     color: #384354;
     margin-left: 70px;
     margin-top: 30px;
     display: block;
+    background: none;
 }
 
 .stick1 span {
@@ -550,7 +554,7 @@ nav {
     float: left;
     width: 190px;
     height: 160px;
-    border: 1px solid #d17700;
+    border: none;
     display: inline-block;
     margin-right: 150px;
 
@@ -566,12 +570,15 @@ nav {
 .stick2 input {
     height: 30px;
     width: 50px;
-    border: 1px solid;
+    border: none;
     font-size: 28px;
+    text-transform: uppercase;
+    font-weight: bold;
     color: #384354;
     margin-left: 70px;
     margin-top: 30px;
     display: block;
+    background: none;
 }
 
 .stick2 span {
@@ -588,7 +595,7 @@ nav {
     float: left;
     width: 190px;
     height: 160px;
-    border: 1px solid #d17700;
+    border: none;
     display: inline-block;
     margin-right: 150px;
 }
@@ -603,12 +610,15 @@ nav {
 .stick3 input {
     height: 30px;
     width: 50px;
-    border: 1px solid;
+    border: none;
     font-size: 28px;
+    text-transform: uppercase;
+    font-weight: bold;
     color: #384354;
     margin-left: 70px;
     margin-top: 30px;
     display: block;
+    background: none;
 }
 
 .stick3 span {
@@ -625,7 +635,7 @@ nav {
     float: left;
     width: 190px;
     height: 160px;
-    border: 1px solid #d17700;
+    border: none;
     display: inline-block;
 
 }
@@ -640,12 +650,15 @@ nav {
 .stick4 input {
     height: 30px;
     width: 50px;
-    border: 1px solid;
+    border: none;
     font-size: 28px;
+    text-transform: uppercase;
+    font-weight: bold;
     color: #384354;
     margin-left: 70px;
     margin-top: 30px;
     display: block;
+    background: none;
 
 }
 
@@ -666,8 +679,8 @@ nav {
 }
 
 .Reviews h8 {
-    display: inline-block;
-    width: 320px;
+    display: block;
+    width: 150px;
     height: 165px;
     border-bottom: 5px solid #d17700;
     font-weight: bold;
@@ -676,16 +689,17 @@ nav {
     color: #384354;
     text-align: center;
     padding-top: 110px;
-    margin-left: 870px;
+    margin: auto;
 }
 
 .Reviews img {
+    display: block;
     border: none solid #000;
     border-radius: 50%;
     width: 100px;
     height: 100px;
-    overflow: hidden;
-    margin-left: 980px;
+    overflow:hidden;
+    margin: auto;
     margin-top: 60px;
     background: url(../img/%D1%84%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%B4.png)center/ 100px 100px no-repeat local;
 }
@@ -693,7 +707,7 @@ nav {
 .Reviews p {
     height: 90px;
     width: 690px;
-    border: 1px solid;
+    border: none;
     text-align: center;
     line-height: inherit;
     font-size: 16px;
@@ -706,15 +720,15 @@ nav {
 .contacts {
     height: 900px;
     width: 100%;
-    border: 1px solid;
+    border: none;
  background:url(../img/%D0%A4%D0%BE%D0%BD%20%D0%BF%D0%BE%D0%B4%D0%B2%D0%B0%D0%BB.png) center/cover no-repeat;
    
 
 }
 
 .contacts h9 {
-    display: inline-block;
-    width: 320px;
+    display: block;
+    width: 250px;
     height: 165px;
     border-bottom: 5px solid #d17700;
     font-weight: bold;
@@ -723,25 +737,25 @@ nav {
     color: #fff;
     text-align: center;
     padding-top: 110px;
-    margin-left: 870px;
+    margin:auto;
 }
 
 .contacts p {
     height: 20px;
     width: 600px;
-    border: 1px solid;
+    border: none;
     text-align: center;
     line-height: inherit;
     font-size: 16px;
     color: #fff;
-    margin-left: 730px;
+    margin:auto;
     margin-top: 30px;
 }
 
 .pic_contacts {
     height: 90px;
     width: auto;
-    border: 1px solid;
+    border: none;
     margin-top: 40px;
 
 }
@@ -752,7 +766,7 @@ nav {
     margin-left: 700px;
     height: 80px;
     width: 160px;
-    border: 1px solid;
+    border: none;
     text-align: center;
     color: #fff;
 }
@@ -770,7 +784,7 @@ nav {
     margin-left: 90px;
     height: 80px;
     width: 160px;
-    border: 1px solid;
+    border: none;
     text-align: center;
     color: #fff;
 }
@@ -787,7 +801,7 @@ nav {
     margin-left: 90px;
     height: 80px;
     width: 160px;
-    border: 1px solid;
+    border: none;
     text-align: center;
     color: #fff;
 }
@@ -799,18 +813,18 @@ nav {
 }
 
 .massage {
-    height: 450px;
+    height: 430px;
     width: 780px;
     margin: auto;
-    border: 1px solid;
+    border: none;
 }
 
 .massage h8 {
 
-    display: inline-block;
+    display: block;
     width: 100%;
     height: 20px;
-    border: 1px solid;
+    border: none;
     font-weight: bold;
     text-transform: uppercase;
     font-size: 20px;
@@ -827,9 +841,10 @@ nav {
     width: 350px;
     margin-top: 45px;
     text-align: left;
-    border: 2px solid;
+    border: none;
     font-size: 15px;
     padding: 0px 5px;
+    background: #d6dae0;
     
 }
 
@@ -840,7 +855,7 @@ nav {
     width: 100px;
     text-align: center;
     border: 3px solid;
-    border-radius: 5px ;
+    border-radius: 5px;
     font-size: 15px;
     background: none;
     color: #fff;
@@ -852,14 +867,15 @@ nav {
     width: 735px;
     height: 100px;
     margin-top: 15px;
-     font-size: 15px;
+    font-size: 15px;
     padding: 5px 5px;
     margin-bottom: 30px;
+    background: #d6dae0;
 }
 
 .image{
-     width: 450px;
-    border: 1px solid;
+    width: 450px;
+    border: none;
     margin: auto;
      
 }
@@ -868,7 +884,7 @@ nav {
     float: left;
     height: 40px;
     width: 40px;
-    border: 1px solid;
+    border: none;
     background: url(../img/%D1%84%D0%B1.png) no-repeat center; 
     margin-right: 30px;
 }
@@ -876,9 +892,9 @@ nav {
 .image2 img{
     
     float: left;
-     height: 40px;
+    height: 40px;
     width: 40px;
-    border: 1px solid;
+    border: none;
     background: url(../img/%D1%82%D0%B2%D0%B8%D1%82%D0%B5%D1%80.png) no-repeat center; 
      margin-right: 30px;
 }
@@ -886,9 +902,9 @@ nav {
 .image3 img{
     
     float: left;
-     height: 40px;
+    height: 40px;
     width: 40px;
-    border: 1px solid;
+    border: none;
     background: url(../img/%D0%BC%D1%8F%D1%87.png) no-repeat center; 
     margin-right: 30px;
 }
@@ -897,7 +913,7 @@ nav {
     float: left;
      height: 40px;
     width: 40px;
-    border: 1px solid;
+    border: none;
     background: url(../img/%D0%BA%D0%B8%D1%81%D0%B0.png) no-repeat center; 
     margin-right: 30px;
 }
@@ -906,7 +922,7 @@ nav {
     float: left;
      height: 40px;
     width: 40px;
-    border: 1px solid;
+    border: none;
     background: url(../img/%D0%B8%D0%BD%D1%81%D1%82.png) no-repeat center; 
     margin-right: 30px;
 }
@@ -915,7 +931,7 @@ nav {
     float: left;
      height: 40px;
     width: 40px;
-    border: 1px solid;
+    border: none;
     background: url(../img/%D0%B8%D0%BD.png) no-repeat center; 
     margin-right: 30px;
 }
@@ -933,9 +949,9 @@ iframe {
 
 .Dev span{
     
-    border: 1px solid;
+    border: none;
     display: inline-block;
-    margin:40px 0px 0px 880px;
+    margin:50px 0px 0px 880px;
     font-size: 15px;
     color: #fff;
 }
